@@ -40,9 +40,4 @@ public class DivisivelView extends JFrame {
     public void setVisor(String result){
         visor.setText(result);
     }
-
-
-    //public void mostrarDetalhes(int num1, int num2, int resultado) {
-    //   System.out.println(num1 + " multiplicado por " + num2 + " é igual à: " + resultado);
-    //}
 }
